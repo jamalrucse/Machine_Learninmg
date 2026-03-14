@@ -1,0 +1,5 @@
+,ML Model,Configuration,Accuracy,F1 Score,Recall,Precision,ROC_AUC
+0,Support Vector Machine,Normalized Data,98.148%,97.990%,97.619%,98.485%,100.000%
+1,Support Vector Machine,Original Data,74.074%,72.606%,72.682%,72.602%,89.012%
+2,Random Forest,Original Data,100.000%,100.000%,100.000%,100.000%,100.000%
+3,Random Forest,Normalized Data,100.000%,100.000%,100.000%,100.000%,100.000%
